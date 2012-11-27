@@ -1,0 +1,4 @@
+app/code/community/Inchoo/*                     app/code/community/Inchoo/
+app/design/frontend/default/default/layout/*    app/design/frontend/default/default/layout/
+app/design/frontend/default/default/template/*  app/design/frontend/default/default/template/
+app/etc/modules/*                               app/etc/modules/
